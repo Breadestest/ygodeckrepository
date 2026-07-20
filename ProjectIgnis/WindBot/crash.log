@@ -1,0 +1,43 @@
+[26-01-25 13:41:13] Tick Error: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WindBot.Game.AI.Decks.LuckyExecutor.OnSelectCard(IList`1 _cards, Int32 min, Int32 max, Int64 hint, Boolean cancelable)
+   at WindBot.Game.GameAI.OnSelectCard(IList`1 cards, Int32 min, Int32 max, Int64 hint, Boolean cancelable) in D:\a\windbot\windbot\ExecutorBase\Game\GameAI.cs:line 243
+   at WindBot.Game.GameBehavior.InternalOnSelectUnselectCard(BinaryReader packet, Func`6 func)
+   at WindBot.Game.GameBehavior.OnSelectUnselectCard(BinaryReader packet)
+   at WindBot.Game.GameBehavior.OnPacket(BinaryReader packet)
+   at WindBot.Game.GameClient.OnPacketReceived(BinaryReader reader)
+   at YGOSharp.Network.BinaryClient.ReceivePendingPackets()
+   at YGOSharp.Network.BinaryClient.Update()
+   at WindBot.Program.Run(Object o)
+[26-01-25 13:44:55] Tick Error: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WindBot.Game.AI.Decks.LuckyExecutor.OnSelectCard(IList`1 _cards, Int32 min, Int32 max, Int64 hint, Boolean cancelable)
+   at WindBot.Game.GameAI.OnSelectCard(IList`1 cards, Int32 min, Int32 max, Int64 hint, Boolean cancelable) in D:\a\windbot\windbot\ExecutorBase\Game\GameAI.cs:line 243
+   at WindBot.Game.GameBehavior.InternalOnSelectUnselectCard(BinaryReader packet, Func`6 func)
+   at WindBot.Game.GameBehavior.OnSelectUnselectCard(BinaryReader packet)
+   at WindBot.Game.GameBehavior.OnPacket(BinaryReader packet)
+   at WindBot.Game.GameClient.OnPacketReceived(BinaryReader reader)
+   at YGOSharp.Network.BinaryClient.ReceivePendingPackets()
+   at YGOSharp.Network.BinaryClient.Update()
+   at WindBot.Program.Run(Object o)
+[26-02-06 02:30:30] Tick Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WindBot.Game.GameBehavior.OnSelectChain(BinaryReader packet)
+   at WindBot.Game.GameBehavior.OnPacket(BinaryReader packet)
+   at WindBot.Game.GameClient.OnPacketReceived(BinaryReader reader)
+   at YGOSharp.Network.BinaryClient.ReceivePendingPackets()
+   at YGOSharp.Network.BinaryClient.Update()
+   at WindBot.Program.Run(Object o)
+[26-02-06 02:49:19] Tick Error: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at WindBot.Game.GameAI.OnSelectBattleCmd(BattlePhase battle) in D:\a\windbot\windbot\ExecutorBase\Game\GameAI.cs:line 226
+   at WindBot.Game.GameBehavior.OnSelectBattleCmd(BinaryReader packet)
+   at WindBot.Game.GameBehavior.OnPacket(BinaryReader packet)
+   at WindBot.Game.GameClient.OnPacketReceived(BinaryReader reader)
+   at YGOSharp.Network.BinaryClient.ReceivePendingPackets()
+   at YGOSharp.Network.BinaryClient.Update()
+   at WindBot.Program.Run(Object o)

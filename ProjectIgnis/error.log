@@ -1,0 +1,86 @@
+[2025-06-14 22:44:43] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: failed to resolve address for github.com: No such host is known. 
+wn. 
+[2025-06-14 22:44:43] Warning occurred in repo https://github.com/ProjectIgnis/LFLists: failed to resolve address for github.com: No such host is known. 
+[2025-09-25 13:06:30] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: indexer progress callback returned -1
+[2025-11-24 17:52:46] Warning occurred in repo https://github.com/ProjectIgnis/LFLists: indexer progress callback returned -1
+[2026-01-27 05:37:52] [Script Error]: stack traceback:
+[2026-01-27 05:37:52] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:37:52] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:41:32] [Script Error]: stack traceback:
+[2026-01-27 05:41:32] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:41:32] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:21] [Script Error]: stack traceback:
+[2026-01-27 05:44:21] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:21] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:23] [Script Error]: stack traceback:
+[2026-01-27 05:44:23] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:23] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:25] [Script Error]: stack traceback:
+[2026-01-27 05:44:25] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:25] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:27] [Script Error]: stack traceback:
+[2026-01-27 05:44:27] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:27] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:30] [Script Error]: stack traceback:
+[2026-01-27 05:44:30] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:30] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:31] [Script Error]: stack traceback:
+[2026-01-27 05:44:31] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:31] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:32] [Script Error]: stack traceback:
+[2026-01-27 05:44:32] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:32] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:34] [Script Error]: stack traceback:
+[2026-01-27 05:44:34] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:34] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 05:44:36] [Script Error]: stack traceback:
+[2026-01-27 05:44:36] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 05:44:36] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 06:32:52] [Script Error]: stack traceback:
+[2026-01-27 06:32:52] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 06:32:52] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 06:32:55] [Script Error]: stack traceback:
+[2026-01-27 06:32:55] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 06:32:55] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-01-27 06:36:00] [Script Error]: stack traceback:
+[2026-01-27 06:36:00] [Script Error]: 	[string "c6116731.lua"]:37: in function <[string "c6116731.lua"]:31>
+[2026-01-27 06:36:00] [Script Error]: [string "c6116731.lua"]:37: Parameter 6 should be "Int" but is "nil".
+[2026-02-16 20:49:22] [Script Error]: stack traceback:
+[2026-02-16 20:49:22] [Script Error]: 	[C]: in method 'GetOwnerPlayer'
+[2026-02-16 20:49:22] [Script Error]: 	[string "c39163598.lua"]:19: in local 'v'
+[2026-02-16 20:49:22] [Script Error]: 	[string "utility.lua"]:2614: in function <[string "utility.lua"]:2612>
+[2026-02-16 20:49:22] [Script Error]: [string "c39163598.lua"]:19: Attempting to access deleted object.
+[2026-02-16 20:49:22] [Script Error]: stack traceback:
+[2026-02-16 20:49:22] [Script Error]: 	[C]: in method 'GetOwnerPlayer'
+[2026-02-16 20:49:22] [Script Error]: 	[string "c39163598.lua"]:19: in local 'v'
+[2026-02-16 20:49:22] [Script Error]: 	[string "utility.lua"]:2614: in function <[string "utility.lua"]:2612>
+[2026-02-16 20:49:22] [Script Error]: [string "c39163598.lua"]:19: Attempting to access deleted object.
+[2026-02-16 20:49:22] [Script Error]: stack traceback:
+[2026-02-16 20:49:22] [Script Error]: 	[C]: in method 'GetOwnerPlayer'
+[2026-02-16 20:49:22] [Script Error]: 	[string "c39163598.lua"]:19: in local 'v'
+[2026-02-16 20:49:22] [Script Error]: 	[string "utility.lua"]:2614: in function <[string "utility.lua"]:2612>
+[2026-02-16 20:49:22] [Script Error]: [string "c39163598.lua"]:19: Attempting to access deleted object.
+[2026-02-16 20:49:23] [Script Error]: stack traceback:
+[2026-02-16 20:49:23] [Script Error]: 	[C]: in method 'GetOwnerPlayer'
+[2026-02-16 20:49:23] [Script Error]: 	[string "c39163598.lua"]:19: in local 'v'
+[2026-02-16 20:49:23] [Script Error]: 	[string "utility.lua"]:2614: in function <[string "utility.lua"]:2612>
+[2026-02-16 20:49:23] [Script Error]: [string "c39163598.lua"]:19: Attempting to access deleted object.
+[2026-02-16 20:49:24] [Script Error]: stack traceback:
+[2026-02-16 20:49:24] [Script Error]: 	[C]: in method 'GetOwnerPlayer'
+[2026-02-16 20:49:24] [Script Error]: 	[string "c39163598.lua"]:19: in local 'v'
+[2026-02-16 20:49:24] [Script Error]: 	[string "utility.lua"]:2614: in function <[string "utility.lua"]:2612>
+[2026-02-16 20:49:24] [Script Error]: [string "c39163598.lua"]:19: Attempting to access deleted object.
+[2026-02-16 20:49:24] [Script Error]: stack traceback:
+[2026-02-16 20:49:24] [Script Error]: 	[C]: in method 'GetOwnerPlayer'
+[2026-02-16 20:49:24] [Script Error]: 	[string "c39163598.lua"]:19: in local 'v'
+[2026-02-16 20:49:24] [Script Error]: 	[string "utility.lua"]:2614: in function <[string "utility.lua"]:2612>
+[2026-02-16 20:49:24] [Script Error]: [string "c39163598.lua"]:19: Attempting to access deleted object.
+[2026-02-16 20:49:25] [Script Error]: stack traceback:
+[2026-02-16 20:49:25] [Script Error]: 	[C]: in method 'GetOwnerPlayer'
+[2026-02-16 20:49:25] [Script Error]: 	[string "c39163598.lua"]:19: in local 'v'
+[2026-02-16 20:49:25] [Script Error]: 	[string "utility.lua"]:2614: in function <[string "utility.lua"]:2612>
+[2026-02-16 20:49:25] [Script Error]: [string "c39163598.lua"]:19: Attempting to access deleted object.
+[2026-05-22 16:21:40] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: the index is locked; this might be due to a concurrent or crashed process
+[2026-05-22 16:21:41] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: indexer progress callback returned -1
+[2026-05-22 16:21:42] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: no error
+[2026-05-22 16:21:43] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: no error
