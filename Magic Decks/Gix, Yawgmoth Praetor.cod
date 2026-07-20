@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Gix, Yawgmoth Praetor</deckname>
+    <format>commander</format>
+    <bannerCard providerId="2c76f7e0-37e7-4e87-93a3-a25ba0674645">Gix, Yawgmoth Praetor</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Gix, Yawgmoth Praetor" setShortName="BRO" collectorNumber="95" uuid="2c76f7e0-37e7-4e87-93a3-a25ba0674645"/>
+    </zone>
+</cockatrice_deck>

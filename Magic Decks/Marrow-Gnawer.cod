@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Marrow-Gnawer</deckname>
+    <format>commander</format>
+    <bannerCard providerId="72e4548b-c171-4f10-b896-af37543dcf0f">Marrow-Gnawer</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Marrow-Gnawer" setShortName="CHK" collectorNumber="124" uuid="72e4548b-c171-4f10-b896-af37543dcf0f"/>
+    </zone>
+</cockatrice_deck>

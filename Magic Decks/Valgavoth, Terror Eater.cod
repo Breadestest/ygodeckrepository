@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Valgavoth, Terror Eater</deckname>
+    <format>commander</format>
+    <bannerCard providerId="7740ff55-67bb-409e-90f7-2c2c8b8c770a">Valgavoth, Terror Eater</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Valgavoth, Terror Eater" setShortName="DSK" collectorNumber="120" uuid="7740ff55-67bb-409e-90f7-2c2c8b8c770a"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Talrand, Sky Summoner</deckname>
+    <format>commander</format>
+    <bannerCard providerId="bc1a6867-921d-4912-afae-c3c445ad81e7">Talrand, Sky Summoner</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Talrand, Sky Summoner" setShortName="M13" collectorNumber="72" uuid="bc1a6867-921d-4912-afae-c3c445ad81e7"/>
+    </zone>
+</cockatrice_deck>

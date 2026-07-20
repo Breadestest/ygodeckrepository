@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Giada, Font of Hope</deckname>
+    <format>commander</format>
+    <bannerCard providerId="8ae6fc26-cfad-4da8-98d9-49c27c24d293">Giada, Font of Hope</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Giada, Font of Hope" setShortName="FDN" collectorNumber="141" uuid="8ae6fc26-cfad-4da8-98d9-49c27c24d293"/>
+    </zone>
+</cockatrice_deck>

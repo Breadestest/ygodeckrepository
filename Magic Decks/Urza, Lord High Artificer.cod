@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 17 13:52:53 2026</lastLoadedTimestamp>
+    <deckname>Urza, Lord High Artificer</deckname>
+    <format>commander</format>
+    <bannerCard providerId="86d744cd-225c-4279-898a-858dc316cf7f">Urza, Lord High Artificer</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Atemsis, All-Seeing" setShortName="M20" collectorNumber="46" uuid="b8f527d1-25c0-49b9-83d5-1278ca72d009"/>
+        <card number="1" name="Enter the Infinite" setShortName="GTC" collectorNumber="34" uuid="612beb8f-2ab1-4a8b-84c5-c47d19d400ab"/>
+        <card number="1" name="Academy Ruins" setShortName="TSP" collectorNumber="269" uuid="af09af65-0a3b-42df-b0fd-372e2158beac"/>
+        <card number="1" name="Karn, the Great Creator" setShortName="WAR" collectorNumber="1" uuid="3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5"/>
+        <card number="1" name="Arcane Signet" setShortName="ECC" collectorNumber="55" uuid="aa9e7f3c-e752-4cee-9e9d-fae38ba27dc9"/>
+        <card number="1" name="Basalt Monolith" setShortName="SUM" collectorNumber="235" uuid="0b0595fe-3042-4fcd-9f8e-a0f601f858c4"/>
+        <card number="1" name="Blinkmoth Urn" setShortName="MRD" collectorNumber="145" uuid="0ff34d0b-a278-4990-beaf-5a64885460db"/>
+        <card number="1" name="Archway of Innovation" setShortName="MH3" collectorNumber="214" uuid="6a90f9e6-9251-4203-9599-cc4032a5e6e1"/>
+        <card number="1" name="Blast Zone" setShortName="BRO" collectorNumber="258" uuid="c5e911be-8166-4263-8c57-e86358b8ceb8"/>
+        <card number="1" name="Buried Ruin" setShortName="M12" collectorNumber="224" uuid="e910cf59-f7aa-44b1-bb8a-c2211179137c"/>
+        <card number="97" name="Island" setShortName="ECL" collectorNumber="270" uuid="b0da67fb-1cb2-4105-ab5c-b7c680b8116c"/>
+        <card number="1" name="Cephalid Coliseum" setShortName="ODY" collectorNumber="317" uuid="d5d74112-7244-4c3f-a5eb-b6be671aefe8"/>
+        <card number="1" name="Temporal Cascade" setShortName="MRD" collectorNumber="52" uuid="daf180c6-7ab6-4922-9f5e-73b4f2c9488a"/>
+        <card number="1" name="Jin-Gitaxias" setShortName="MOM" collectorNumber="65" uuid="41c83142-b948-4ee5-a486-41306d2bb411"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur" setShortName="NPH" collectorNumber="37" uuid="bd46fc9f-5b92-44d7-8940-2f39b0962b8f"/>
+        <card number="1" name="Darksteel Citadel" setShortName="M15" collectorNumber="242" uuid="b0ad4395-5766-44c3-b5af-3d65d49a3333"/>
+        <card number="1" name="Emergence Zone" setShortName="WAR" collectorNumber="245" uuid="ab95f6e7-b806-47fe-a071-6c38b3176d94"/>
+        <card number="1" name="Everflowing Chalice" setShortName="WWK" collectorNumber="123" uuid="1fdcc0c3-4029-4fc3-a486-5d7f45c910bd"/>
+        <card number="1" name="Fomori Vault" setShortName="PBIG" collectorNumber="29p" uuid="bf5c3883-ca22-4850-9721-d1acb16acbd8"/>
+        <card number="1" name="Fellwar Stone" setShortName="ECC" collectorNumber="141" uuid="bbfb3591-1f81-4576-828b-fd00fea599dd"/>
+        <card number="1" name="Inventors' Fair" setShortName="KLD" collectorNumber="247" uuid="275471e3-ded1-40ac-91ef-369dce5764d9"/>
+        <card number="1" name="Gilded Lotus" setShortName="MSC" collectorNumber="199" uuid="28e619e6-ecc1-49c3-8fa9-ce42becdb9ba"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="CHK" collectorNumber="279" uuid="7536292c-da25-41c8-ba28-1e35758a7f3d"/>
+        <card number="1" name="Grim Monolith" setShortName="ULG" collectorNumber="126" uuid="9ddc9fe1-17c8-4e1d-aeb8-c4214e881280"/>
+        <card number="1" name="Mishra's Workshop" setShortName="ATQ" collectorNumber="81" uuid="135de5c7-6ac9-4b68-8f1a-97f120a4b125"/>
+        <card number="1" name="Mistrise Village" setShortName="TDM" collectorNumber="261" uuid="d44bccbf-6fab-46e4-8ddb-6577e27ec6e8"/>
+        <card number="1" name="Mystic Sanctuary" setShortName="SOC" collectorNumber="388" uuid="4cd86997-d7b9-4b5b-9488-11f5c679e4d3"/>
+        <card number="1" name="Oboro, Palace in the Clouds" setShortName="SOK" collectorNumber="164" uuid="ffc2d68e-6543-43ec-b67a-afff1325a32f"/>
+        <card number="1" name="Lotus Petal" setShortName="TMP" collectorNumber="294" uuid="6c877da3-68fa-41d0-8a24-8c79fcd8ecc1"/>
+        <card number="1" name="Otawara, Soaring City" setShortName="NEO" collectorNumber="271" uuid="486d7edc-d983-41f0-8b78-c99aecd72996"/>
+        <card number="1" name="Artificer Class" setShortName="CLB" collectorNumber="663" uuid="cf4e9335-06e3-4b27-8fd8-3e44ece89a36"/>
+        <card number="1" name="Urza's Saga" setShortName="MH2" collectorNumber="259" uuid="c1e0f201-42cb-46a1-901a-65bb4fc18f6c"/>
+        <card number="1" name="Uthros, Titanic Godcore" setShortName="PEOE" collectorNumber="260p" uuid="73b30f74-061c-4e64-be5c-bcfb9f0650c3"/>
+        <card number="1" name="Mox Opal" setShortName="AA2" collectorNumber="20" uuid="c7006549-62b4-4bca-8690-195debb04ae6"/>
+        <card number="1" name="Tezzeret the Seeker" setShortName="ALA" collectorNumber="60" uuid="3b214b6f-4734-4200-8467-92d7e3469b5d"/>
+        <card number="1" name="Tezzeret, Artifice Master" setShortName="M19" collectorNumber="79" uuid="e5e12371-f05c-41cf-92ca-7cb17c2f7f1a"/>
+        <card number="1" name="Tezzeret, Betrayer of Flesh" setShortName="NEO" collectorNumber="84" uuid="2174d16e-4a78-4d27-b220-1086c40db83e"/>
+        <card number="1" name="Tezzeret, Cruel Captain" setShortName="PEOE" collectorNumber="2p" uuid="05514fab-079c-4c73-bc4c-355621f56d73"/>
+        <card number="1" name="Ugin, Eye of the Storms" setShortName="TDM" collectorNumber="1" uuid="64a5d494-efa1-446b-bebe-2ad36e154376"/>
+        <card number="1" name="Ugin, the Ineffable" setShortName="WAR" collectorNumber="2" uuid="7b003521-3da3-41bf-9765-36630653f902"/>
+        <card number="1" name="Copy Artifact" setShortName="SUM" collectorNumber="53" uuid="2183848b-c0ad-46a0-a017-e60210c4c6b7"/>
+        <card number="1" name="Counterbalance" setShortName="CSP" collectorNumber="31" uuid="c329ff2b-0331-4934-a8df-870dd7bf402b"/>
+        <card number="1" name="Efficient Construction" setShortName="AER" collectorNumber="33" uuid="abfbe1d5-beb7-49b8-a504-f1cc47ee4731"/>
+        <card number="1" name="Mirrodin Besieged" setShortName="MH1" collectorNumber="57" uuid="d8423d8d-744a-4bbe-a853-8ad756451bdb"/>
+        <card number="1" name="Sol Ring" setShortName="ECC" collectorNumber="57" uuid="04002706-2236-4b79-bdea-4f263e43cb9c"/>
+        <card number="1" name="Mirrormade" setShortName="ELD" collectorNumber="55" uuid="a10c1407-d397-4caa-b7b7-e7d91ffd4ee9"/>
+        <card number="1" name="Aether Spellbomb" setShortName="MRD" collectorNumber="141" uuid="f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f"/>
+        <card number="1" name="Power Artifact" setShortName="ATQ" collectorNumber="11" uuid="e48bc89e-6da5-43da-b4e0-60d5f850199c"/>
+        <card number="1" name="The Magic Mirror" setShortName="ELD" collectorNumber="51" uuid="08b89af1-7b22-4153-b42d-a2ea4e0f320c"/>
+        <card number="1" name="Propaganda" setShortName="MSC" collectorNumber="151" uuid="ac943e31-26bc-4b54-b73f-460e6e402d86"/>
+        <card number="1" name="Aetherflux Reservoir" setShortName="KLD" collectorNumber="192" uuid="96b6b2e1-c3e6-464c-8a13-b15deb34e862"/>
+        <card number="1" name="Thopter Spy Network" setShortName="ORI" collectorNumber="79" uuid="5516d86e-539a-4ba8-8d25-1a3b27b1267a"/>
+        <card number="1" name="Training Grounds" setShortName="TLE" collectorNumber="20" uuid="07ec5941-203a-4f6d-b5fa-3054050990ee"/>
+        <card number="1" name="Thran Dynamo" setShortName="MSC" collectorNumber="290" uuid="873d52a8-f10e-4116-8511-bf63aeb2e413"/>
+        <card number="1" name="Unstoppable Plan" setShortName="DFT" collectorNumber="72" uuid="aaeb5981-7e6a-4ffd-bb02-4757b2e92f08"/>
+        <card number="1" name="Access Denied" setShortName="NEC" collectorNumber="11" uuid="1642df77-6fe8-47cf-b750-ca4dd9b331ba"/>
+        <card number="1" name="Codex Shredder" setShortName="RTR" collectorNumber="228" uuid="8f7b632b-ee20-4082-8376-1dae53f91b70"/>
+        <card number="1" name="Cryogen Relic" setShortName="EOE" collectorNumber="52" uuid="7bfb33b6-e2bf-498f-8c58-ae21a840cf75"/>
+        <card number="1" name="Darksteel Forge" setShortName="M14" collectorNumber="206" uuid="2c95a0a1-9c2c-44df-b0fe-c22efb6d87ee"/>
+        <card number="1" name="Darksteel Relic" setShortName="NPH" collectorNumber="134" uuid="0fd8c918-62d9-41be-a3e1-32ddac71b7e7"/>
+        <card number="1" name="Encroaching Mycosynth" setShortName="ONE" collectorNumber="47" uuid="65a2fcc9-2317-48a1-a5eb-234fb3300364"/>
+        <card number="1" name="Expedition Map" setShortName="FDN" collectorNumber="724" uuid="08e66835-c228-48fa-bcaa-eb96edbd4f5a"/>
+        <card number="1" name="Forsaken Monument" setShortName="ZNR" collectorNumber="244" uuid="33568871-dab0-4c09-b9f0-0ae78a46a06d"/>
+        <card number="1" name="Grafdigger's Cage" setShortName="M20" collectorNumber="227" uuid="0a135e09-b534-4836-9a10-3a9a4a9f8c53"/>
+        <card number="1" name="Ichor Wellspring" setShortName="MBS" collectorNumber="110" uuid="2d1ea522-a0f6-45a8-8985-6fcca95d60cc"/>
+        <card number="1" name="Insight Engine" setShortName="EOC" collectorNumber="6" uuid="b826de8b-ed21-4e2b-b99a-e860c1cb876b"/>
+        <card number="1" name="Gitaxian Probe" setShortName="NPH" collectorNumber="35" uuid="995486ce-58bb-4753-a812-0ca73ef1a235"/>
+        <card number="1" name="Lightning Greaves" setShortName="MSC" collectorNumber="202" uuid="b61634ae-05be-4b56-8ebb-9d4ade902e42"/>
+        <card number="1" name="Merchant Scroll" setShortName="8ED" collectorNumber="91" uuid="bb5385d2-ca5d-4fb9-934b-b7cc8b38ac89"/>
+        <card number="1" name="Manifold Key" setShortName="M20" collectorNumber="230" uuid="715e637a-dfd8-45a0-b1ea-53e4abd29307"/>
+        <card number="1" name="One with the Machine" setShortName="M19" collectorNumber="66" uuid="17f2aaf5-6c1f-4663-865f-6cdd5640485a"/>
+        <card number="1" name="Moonsilver Key" setShortName="MID" collectorNumber="255" uuid="87778e37-af92-402e-b037-5fbd6112b682"/>
+        <card number="1" name="Mystic Forge" setShortName="M20" collectorNumber="233" uuid="924a24e7-91b8-4ceb-a136-7a765d98c994"/>
+        <card number="1" name="Pithing Needle" setShortName="MID" collectorNumber="257" uuid="556ec6ab-a19f-4caa-8bfa-145555402caf"/>
+        <card number="1" name="Portal to Phyrexia" setShortName="BRO" collectorNumber="240" uuid="5f608efc-0dbc-4cc3-aadd-ed473bfc29ab"/>
+        <card number="1" name="Repurposing Bay" setShortName="DFT" collectorNumber="56" uuid="0cf1ace1-b7f5-4bd9-a494-ee7cb6c1f854"/>
+        <card number="1" name="Rings of Brighthearth" setShortName="LRW" collectorNumber="259" uuid="fbfd3898-cb06-4bb9-9d52-b319e1fa2217"/>
+        <card number="1" name="Personal Tutor" setShortName="POR" collectorNumber="64" uuid="1edc3917-fded-4773-8f8d-62bd861c1131"/>
+        <card number="1" name="Sculpting Steel" setShortName="10E" collectorNumber="342" uuid="41368983-14f8-4efa-bb60-b0a7ceb3d021"/>
+        <card number="1" name="Ponder" setShortName="OMB" collectorNumber="13" uuid="30693fc5-b350-42ef-968f-e0efda1365c1"/>
+        <card number="1" name="Sewer-veillance Cam" setShortName="TMT" collectorNumber="53" uuid="ab47a37b-b66d-4f70-9bf0-4d5ed6b518f3"/>
+        <card number="1" name="Simulacrum Synthesizer" setShortName="PBIG" collectorNumber="6p" uuid="d55b6a43-8961-4bbb-bd4a-c6c7d29f7234"/>
+        <card number="1" name="Soul-Guide Lantern" setShortName="FDN" collectorNumber="680" uuid="6d3ff537-86f0-405e-b96b-1250720af031"/>
+        <card number="1" name="Staff of Domination" setShortName="5DN" collectorNumber="156" uuid="7980fc3b-71d5-427d-bd42-087256fd2059"/>
+        <card number="1" name="Static Orb" setShortName="7ED" collectorNumber="319" uuid="86bf43b1-8d4e-4759-bb2d-0b2e03ba7012"/>
+        <card number="1" name="Stone of Erech" setShortName="LTR" collectorNumber="251" uuid="bc02e193-df33-4eb1-adc1-b51ee931218a"/>
+        <card number="1" name="Storage Matrix" setShortName="9ED" collectorNumber="310" uuid="2aa41221-ee75-4713-99bd-683013ba64de"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="MSC" collectorNumber="216" uuid="6675632d-d74a-4b1e-8539-ac678d5545a5"/>
+        <card number="1" name="Reshape" setShortName="DST" collectorNumber="31" uuid="05a8d65d-0c6f-433d-a818-002c242a17e8"/>
+        <card number="1" name="Sea Gate Restoration" setShortName="ZNR" collectorNumber="76" uuid="193071fe-180b-4d35-ba78-9c16675c29fc"/>
+        <card number="1" name="Torpor Orb" setShortName="PBIG" collectorNumber="27p" uuid="922ff3b1-abd5-47e8-a930-49ade8299eae"/>
+        <card number="1" name="Solve the Equation" setShortName="STX" collectorNumber="54" uuid="66c04ee2-c1e0-45fb-aaf5-1b4459df80fc"/>
+        <card number="1" name="Urza's Bauble" setShortName="5ED" collectorNumber="406" uuid="876c1811-990c-41ca-874f-fd0512b59d06"/>
+        <card number="1" name="Vedalken Orrery" setShortName="5DN" collectorNumber="163" uuid="94b546fa-af65-4afa-bb16-69b33674d3d1"/>
+        <card number="1" name="Voltaic Key" setShortName="M11" collectorNumber="219" uuid="6dd61957-f3a2-4976-8f15-88258f71406a"/>
+        <card number="1" name="Winter Orb" setShortName="5ED" collectorNumber="408" uuid="3a674ec8-5531-4d06-aa57-929c6ac29238"/>
+        <card number="1" name="Witching Well" setShortName="ELD" collectorNumber="74" uuid="62d3132f-f897-4a7a-9de4-c6388e83f5ad"/>
+        <card number="1" name="Timetwister" setShortName="2ED" collectorNumber="85" uuid="01bda3d7-122a-48a0-bab3-676c4a557b74"/>
+        <card number="1" name="Transmute Artifact" setShortName="ATQ" collectorNumber="14" uuid="6eab6765-eba3-4844-81ca-ae37a6e903df"/>
+        <card number="1" name="Aetherize" setShortName="FDN" collectorNumber="151" uuid="1e5530fc-0291-4a17-b048-c5d24e6f51d8"/>
+        <card number="1" name="Battered Golem" setShortName="5DN" collectorNumber="106" uuid="f69add35-c529-4b30-8e64-f09b8308432f"/>
+        <card number="1" name="Archmage's Charm" setShortName="J21" collectorNumber="166" uuid="797f84dc-e166-4885-86fa-568197993100"/>
+        <card number="1" name="Blue Sun's Zenith" setShortName="MBS" collectorNumber="20" uuid="a8150f78-e187-4949-9746-fec64d1675d1"/>
+        <card number="1" name="Brainstorm" setShortName="PZA" collectorNumber="4" uuid="8bb0a0cf-5b04-4d68-bf7a-7131ae50d06b"/>
+        <card number="1" name="Chain of Vapor" setShortName="ONS" collectorNumber="73" uuid="30f6b4a2-5780-46e9-b239-459d2cf37743"/>
+        <card number="1" name="Displacer Kitten" setShortName="CLB" collectorNumber="63" uuid="c7a401b8-29fb-46ef-a663-427f66724d5c"/>
+        <card number="1" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="1" name="Drafna, Founder of Lat-Nam" setShortName="BRO" collectorNumber="47" uuid="f7355905-2b3b-4191-a89c-a0fc1494928b"/>
+        <card number="1" name="Desynchronization" setShortName="ACR" collectorNumber="16" uuid="3ddd3561-0143-40b7-81bc-640a978b8b15"/>
+        <card number="1" name="Dig Through Time" setShortName="SOC" collectorNumber="195" uuid="020939d6-72f0-4aa0-9ac2-d16cc896cd7f"/>
+        <card number="1" name="Emry, Lurker of the Loch" setShortName="ELD" collectorNumber="43" uuid="bf4b9a8a-b42a-46fb-b0d0-9cf800f63c8a"/>
+        <card number="1" name="Narset, Parter of Veils" setShortName="WAR" collectorNumber="61" uuid="8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5"/>
+        <card number="1" name="Flusterstorm" setShortName="SOA" collectorNumber="18" uuid="ba8fa9db-f24f-46d4-add1-71b7f77636e2"/>
+        <card number="1" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="1" name="High Tide" setShortName="FEM" collectorNumber="18a" uuid="4686bbb9-517f-4cce-aa7a-5db41e22c02b"/>
+        <card number="1" name="Machine Over Matter" setShortName="BRO" collectorNumber="57" uuid="d08eadf5-a86d-4e8d-b65d-79b4f88477b9"/>
+        <card number="1" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="1" name="Mana Leak" setShortName="AA2" collectorNumber="4" uuid="09d187b7-3006-418d-ab88-f3f39a97d035"/>
+        <card number="1" name="Mental Misstep" setShortName="NPH" collectorNumber="38" uuid="61e9c6df-1c84-4eab-9076-a4feb6347c10"/>
+        <card number="1" name="Mindbreak Trap" setShortName="OMB" collectorNumber="11" uuid="4788b330-51f6-486a-9f09-321f99efbb26"/>
+        <card number="1" name="Misdirection" setShortName="MMQ" collectorNumber="87" uuid="581ad59c-29e9-4498-a6fd-33bf21e8e7c4"/>
+        <card number="1" name="Muddle the Mixture" setShortName="RAV" collectorNumber="60" uuid="4cc785b0-0a77-4b02-b0b4-2bda2fc621cc"/>
+        <card number="1" name="An Offer You Can't Refuse" setShortName="FDN" collectorNumber="160" uuid="a829747f-cf9b-4d81-ba66-9f0630ed4565"/>
+        <card number="1" name="Negate" setShortName="TMT" collectorNumber="47" uuid="52d58fe4-6070-4022-9cd7-c35a11b44525"/>
+        <card number="1" name="Nexus of Fate" setShortName="M19" collectorNumber="306" uuid="f163cfbf-6df6-4af5-9fe4-23b0d511586a"/>
+        <card number="1" name="Opt" setShortName="FDN" collectorNumber="512" uuid="58d26b54-0093-4e90-a2b1-b57c64340f9c"/>
+        <card number="1" name="Pact of Negation" setShortName="FUT" collectorNumber="42" uuid="cca467a2-a2b3-4bdf-9d60-62979f675347"/>
+        <card number="1" name="Paradoxical Outcome" setShortName="KLD" collectorNumber="60" uuid="17e50157-bf49-4c5f-9b8a-bf73484e63a5"/>
+        <card number="1" name="Pongify" setShortName="SOA" collectorNumber="20" uuid="5780936e-629d-4737-9005-651234f5426d"/>
+        <card number="1" name="Retraction Helix" setShortName="BNG" collectorNumber="49" uuid="4fe8c0b9-fdf4-4fc0-aa7c-774546cdd792"/>
+        <card number="1" name="Scour for Scrap" setShortName="EOE" collectorNumber="73" uuid="517d1b00-7ec4-489a-ac52-657da24a6379"/>
+        <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>
+        <card number="1" name="Snap" setShortName="ULG" collectorNumber="43" uuid="f7e0549e-2d23-4ea8-b8d1-ae21af2c9091"/>
+        <card number="1" name="Hydroelectric Specimen" setShortName="MH3" collectorNumber="240" uuid="8689ecd7-e9a6-458b-99d2-6dbaca527f00"/>
+        <card number="1" name="Thirst for Knowledge" setShortName="MSH" collectorNumber="79" uuid="5f4f77e5-0019-4a5f-bae6-136121946929"/>
+        <card number="1" name="Urza's Command" setShortName="BRO" collectorNumber="70" uuid="b9b4a02c-e57f-4287-943e-6bc859ac149e"/>
+        <card number="1" name="Jhoira's Familiar" setShortName="DOM" collectorNumber="220" uuid="3718761f-feb1-46c4-aaa3-7e07a3fa72fa"/>
+        <card number="1" name="Kappa Cannoneer" setShortName="EOC" collectorNumber="74" uuid="99cd996f-be74-4dbb-9460-6d650cedfca6"/>
+        <card number="1" name="Karn, Legacy Reforged" setShortName="MAT" collectorNumber="49" uuid="4219b5ea-a252-4d76-a60a-9674340e8ed3"/>
+        <card number="1" name="Laboratory Maniac" setShortName="ISD" collectorNumber="61" uuid="809205f3-acf5-4244-b360-09ce4ba76795"/>
+        <card number="1" name="Liberator, Urza's Battlethopter" setShortName="BRO" collectorNumber="237" uuid="c31e6768-bcab-43c4-bfc1-76e961689ae9"/>
+        <card number="1" name="Master of Etherium" setShortName="ALA" collectorNumber="49" uuid="322cdf67-5b36-43f9-99b3-f0e24d423314"/>
+        <card number="1" name="Master Transmuter" setShortName="CON_" collectorNumber="31" uuid="252482b2-aaa7-49f3-af8c-30923ca98994"/>
+        <card number="1" name="Mm'menon, the Right Hand" setShortName="PEOE" collectorNumber="68p" uuid="67b8d42f-9908-4939-ad64-f411674ae07d"/>
+        <card number="1" name="Myr Retriever" setShortName="MRD" collectorNumber="215" uuid="ee766f7b-4e9c-442d-bf53-31c204646449"/>
+        <card number="1" name="Ornithopter" setShortName="AER" collectorNumber="167" uuid="ddb96645-44d2-426c-90cb-3186297a8728"/>
+        <card number="1" name="Ornithopter of Paradise" setShortName="DRC" collectorNumber="133" uuid="47c976ee-7eb3-42bb-8bfb-5eda12417e97"/>
+        <card number="1" name="Padeem, Consul of Innovation" setShortName="KLD" collectorNumber="59" uuid="e31b30a7-13e8-408e-a758-60e6e9290808"/>
+        <card number="1" name="Phyrexian Metamorph" setShortName="NPH" collectorNumber="42" uuid="d2e27911-87cb-49a0-a34f-6afe4bddd592"/>
+        <card number="1" name="Mana Vault" setShortName="5ED" collectorNumber="388" uuid="05e9fec4-1e0a-4206-ab2b-cc2543cba667"/>
+        <card number="1" name="Scrap Trawler" setShortName="AER" collectorNumber="175" uuid="68abc75f-596f-4169-96fc-ada941ef47ed"/>
+        <card number="1" name="Spellseeker" setShortName="BBD" collectorNumber="41" uuid="74b4c336-5d4c-4bc5-b82a-35084a6ad808"/>
+        <card number="1" name="Spellskite" setShortName="NPH" collectorNumber="159" uuid="1a84bada-ed6a-4e97-8a0c-05b7cb32d66f"/>
+        <card number="1" name="Steel Overseer" setShortName="M20" collectorNumber="239" uuid="6ed61426-e652-4b48-b936-8be9b6b57731"/>
+        <card number="1" name="Thassa's Oracle" setShortName="THB" collectorNumber="73" uuid="726e8b29-13e9-4138-b6a9-d2a0d8188d1c"/>
+        <card number="1" name="Thought Monitor" setShortName="EOC" collectorNumber="79" uuid="18a6ea89-417c-4ee0-a410-8a0067b92967"/>
+        <card number="1" name="Tidespout Tyrant" setShortName="AA4" collectorNumber="10" uuid="60d27009-2383-4583-bb0c-b33333201686"/>
+        <card number="1" name="Tribute Mage" setShortName="H1R" collectorNumber="10" uuid="b05fa81a-a0f5-4cb1-b4c7-f4016ab65c4c"/>
+        <card number="1" name="Trinket Mage" setShortName="AA2" collectorNumber="6" uuid="c0b7e56a-b983-4645-865f-0c255d58d7ae"/>
+        <card number="1" name="Rhystic Study" setShortName="PCY" collectorNumber="45" uuid="3394cefd-a3c6-4917-8f46-234e441ecfb6"/>
+        <card number="1" name="Vedalken Archmage" setShortName="MRD" collectorNumber="55" uuid="8b38da97-5141-4de6-bd7f-3fcbf46cfd96"/>
+        <card number="1" name="Wan Shi Tong, Librarian" setShortName="PTLA" collectorNumber="78s" uuid="a0741b09-c94d-4b11-a620-500f9d3c9f39"/>
+        <card number="1" name="Cyclonic Rift" setShortName="SOA" collectorNumber="14" uuid="7037f57a-ca89-41bd-bf7f-2f54593c0f48"/>
+        <card number="1" name="Mystic Remora" setShortName="TLE" collectorNumber="16" uuid="fce23be6-787a-43bb-8bfd-c6672fad9105"/>
+        <card number="1" name="The One Ring" setShortName="HOC" collectorNumber="44" uuid="bdd2c783-1483-490a-ae93-c4664a0a9564"/>
+        <card number="1" name="Fierce Guardianship" setShortName="TLE" collectorNumber="307" uuid="ac4fc06d-50b8-455f-8d14-85c0c791c422"/>
+        <card number="1" name="Force of Will" setShortName="SOA" collectorNumber="19" uuid="7a87f8bc-1b3e-4cb2-9343-5f008e942411"/>
+        <card number="1" name="Forensic Gadgeteer" setShortName="MKM" collectorNumber="57" uuid="97d08a15-e61c-4421-a541-c68a4f87cb74"/>
+        <card number="1" name="Mystical Tutor" setShortName="TLE" collectorNumber="308" uuid="f3054d9f-7080-46dc-aa2f-804f8120c094"/>
+        <card number="1" name="Mana Drain" setShortName="LEG" collectorNumber="65" uuid="e691adef-3027-4e6a-889f-9f4e2df36a7c"/>
+        <card number="1" name="Swan Song" setShortName="THS" collectorNumber="65" uuid="efd26041-059b-4a1e-9ce8-c3cfd69a3721"/>
+        <card number="1" name="Foundry Inspector" setShortName="KLD" collectorNumber="215" uuid="93f827e8-1cc4-4a15-a4be-2e74323963b9"/>
+        <card number="1" name="Counterspell" setShortName="OMB" collectorNumber="9" uuid="36f9d5b0-51a5-4faa-a879-b83871ae39cc"/>
+        <card number="1" name="Sai, Master Thopterist" setShortName="M19" collectorNumber="69" uuid="19316cbb-d1af-4ab7-b588-78637503e986"/>
+        <card number="1" name="Hullbreaker Horror" setShortName="VOW" collectorNumber="63" uuid="4b546bcf-2e86-42af-bf32-81c7fd36ef8c"/>
+        <card number="1" name="Etherium Sculptor" setShortName="ALA" collectorNumber="42" uuid="0d050f2d-bd65-4ab9-9ea6-9deba91b2792"/>
+        <card number="1" name="Sapphire Medallion" setShortName="TMP" collectorNumber="306" uuid="3ab1e253-47cb-4089-87d5-0f998025d98c"/>
+        <card number="1" name="Mishra's Bauble" setShortName="CSP" collectorNumber="138" uuid="8a720448-017f-4f4a-9501-678245eaed17"/>
+        <card number="1" name="Sensei's Divining Top" setShortName="CHK" collectorNumber="268" uuid="4a08ca06-58db-4ce6-b490-be4bea8956a1"/>
+        <card number="1" name="Seat of the Synod" setShortName="MRD" collectorNumber="283" uuid="5da5587d-6b6c-4645-8cc9-2866d1e6911b"/>
+        <card number="1" name="Whir of Invention" setShortName="AER" collectorNumber="49" uuid="0279fd3c-9252-4958-9d7a-5f33aa25907e"/>
+        <card number="1" name="Tormod's Crypt" setShortName="M21" collectorNumber="241" uuid="9c224bf0-5641-4160-9d5c-46141ea8372a"/>
+        <card number="1" name="Isochron Scepter" setShortName="MRD" collectorNumber="188" uuid="878b0159-6917-45d3-b9ea-562ac49f0b8f"/>
+        <card number="1" name="Fabricate" setShortName="M10" collectorNumber="52" uuid="6f75d8c9-c15d-4474-9d3f-d35f49e46477"/>
+        <card number="1" name="Dramatic Reversal" setShortName="TLE" collectorNumber="158" uuid="2ad14406-4504-4951-83f0-82c298964d6c"/>
+        <card number="1" name="Unwinding Clock" setShortName="NPH" collectorNumber="164" uuid="495d520b-7560-4ecb-ae62-143eeec5682f"/>
+        <card number="1" name="Urza, Lord High Artificer" setShortName="H1R" collectorNumber="11" uuid="86d744cd-225c-4279-898a-858dc316cf7f"/>
+    </zone>
+</cockatrice_deck>

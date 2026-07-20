@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Lumra, Bellow of the Woods</deckname>
+    <format>commander</format>
+    <bannerCard providerId="ae4f3aaf-3960-48cd-b34b-32e4ae5ae088">Lumra, Bellow of the Woods</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Lumra, Bellow of the Woods" setShortName="BLB" collectorNumber="183" uuid="ae4f3aaf-3960-48cd-b34b-32e4ae5ae088"/>
+    </zone>
+</cockatrice_deck>

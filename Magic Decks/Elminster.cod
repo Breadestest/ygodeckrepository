@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Elminster</deckname>
+    <format>commander</format>
+    <bannerCard providerId="4eac2b49-6cb6-4ff4-8fac-2ba669326640">Elminster</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Elminster" setShortName="CLB" collectorNumber="274" uuid="4eac2b49-6cb6-4ff4-8fac-2ba669326640"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>K'rrik, Son of Yawgmoth</deckname>
+    <format>commander</format>
+    <bannerCard providerId="4f087b1c-97e0-4379-a94d-beac53685314">K'rrik, Son of Yawgmoth</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="K'rrik, Son of Yawgmoth" setShortName="MH3" collectorNumber="274" uuid="4f087b1c-97e0-4379-a94d-beac53685314"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Yuriko, the Tiger's Shadow</deckname>
+    <format>commander</format>
+    <bannerCard providerId="7af7847e-82e6-45ed-834d-6f3bcba44017">Yuriko, the Tiger's Shadow</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Yuriko, the Tiger's Shadow" setShortName="CMR" collectorNumber="542" uuid="7af7847e-82e6-45ed-834d-6f3bcba44017"/>
+    </zone>
+</cockatrice_deck>

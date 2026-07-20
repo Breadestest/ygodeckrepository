@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Edgar Markov</deckname>
+    <format>commander</format>
+    <bannerCard providerId="8d94b8ec-ecda-43c8-a60e-1ba33e6a54a4">Edgar Markov</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Edgar Markov" setShortName="C17" collectorNumber="36" uuid="8d94b8ec-ecda-43c8-a60e-1ba33e6a54a4"/>
+        <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
+        <card number="1" name="Akroma's Will" setShortName="CMR" collectorNumber="615" uuid="d0e65d75-7fe1-4804-8cfa-d7a42bacacae"/>
+        <card number="1" name="Arid Mesa" setShortName="MM3" collectorNumber="229" uuid="c9a8cc61-7e36-4df7-9c89-c32fce129c5a"/>
+        <card number="1" name="Banner of Kinship" setShortName="FDN" collectorNumber="484" uuid="e4709aed-a74b-4319-87c1-40f14cca6dad"/>
+        <card number="1" name="Battlefield Forge" setShortName="ORI" collectorNumber="244" uuid="034c5944-aad3-4bf2-b79d-8da61ab1bd52"/>
+        <card number="1" name="Black Market Connections" setShortName="CLB" collectorNumber="620" uuid="8b28572c-d2ba-4834-8630-3d82202ebb6f"/>
+        <card number="1" name="Blazemire Verge" setShortName="PDSK" collectorNumber="256"/>
+        <card number="1" name="Bleachbone Verge" setShortName="DFT" collectorNumber="250" uuid="52dcdabd-a186-45fe-9fee-6c0f1afeaf16"/>
+        <card number="1" name="Blood Artist" setShortName="LCC" collectorNumber="182" uuid="b7f1c316-cf2f-4bbf-89a1-79c8043bdd96"/>
+        <card number="1" name="Blood Crypt" setShortName="RTR" collectorNumber="238" uuid="8bd5828b-8dcd-4ce6-b834-ebe9cbaa12d1"/>
+        <card number="1" name="Blood Seeker" setShortName="DSC" collectorNumber="77" uuid="fe88cbee-5f6c-47e0-8a84-192c4c2ca984"/>
+        <card number="1" name="Bloodletter of Aclazotz" setShortName="LCI" collectorNumber="92" uuid="d4f6027a-003a-4f9d-929a-0b6da1fa42c9"/>
+        <card number="1" name="Bloodline Keeper" setShortName="ISD" collectorNumber="90" uuid="13896468-e3d0-4bcb-b09e-b5c187aecb03"/>
+        <card number="1" name="Bloodstained Mire" setShortName="KTK" collectorNumber="230" uuid="7f430794-0d86-4f6a-97e0-4bbb6716d613"/>
+        <card number="1" name="Bloodthirsty Conqueror" setShortName="FDN" collectorNumber="58" uuid="ce860ed4-a5bd-4347-9eab-dd716ea84db1"/>
+        <card number="1" name="Captivating Vampire" setShortName="C17" collectorNumber="104" uuid="1b825bd1-9cbc-45a8-bfbe-fc3e8fdc575e"/>
+        <card number="1" name="Castle Dracula" setShortName="VOW" collectorNumber="403"/>
+        <card number="1" name="Castle Locthwain" setShortName="ELD" collectorNumber="241" uuid="195383c1-4723-40b0-ba53-298dfd8e30d0"/>
+        <card number="1" name="Caves of Koilos" setShortName="ORI" collectorNumber="245" uuid="ca145c1c-537a-459e-9241-0b95368aaf3a"/>
+        <card number="1" name="Cemetery Gatekeeper" setShortName="VOW" collectorNumber="304" uuid="63141c56-f0dd-4bb3-808d-6b7031253cad"/>
+        <card number="1" name="Changeling Outcast" setShortName="MH1" collectorNumber="82" uuid="08151d00-513a-4957-aa16-01c0f0245112"/>
+        <card number="1" name="Charismatic Conqueror" setShortName="LCC" collectorNumber="70" uuid="599c934d-bfff-43ce-a545-6e3cde124515"/>
+        <card number="1" name="Command Tower" setShortName="C17" collectorNumber="242" uuid="d2b1183f-bfc6-425f-9089-8657f7c8822b"/>
+        <card number="1" name="Cordial Vampire" setShortName="MH1" collectorNumber="83" uuid="a90a1c44-ee0f-4c12-bfaf-6f371bcce167"/>
+        <card number="1" name="Cori Mountain Monastery" setShortName="TDM" collectorNumber="252" uuid="9312821a-2059-4f44-9b20-c9522b827e38"/>
+        <card number="1" name="Cover of Darkness" setShortName="ACR" collectorNumber="163" uuid="a40c2274-250c-4aa1-8c28-7d963d31435f"/>
+        <card number="1" name="Creeping Bloodsucker" setShortName="J25" collectorNumber="415" uuid="d9f12481-e4dd-4a44-910f-e0d263de14ae"/>
+        <card number="1" name="Crippling Fear" setShortName="KHM" collectorNumber="82" uuid="7d9bd181-b99f-477e-bcfb-9b78cbf51224"/>
+        <card number="1" name="Cruel Celebrant" setShortName="WAR" collectorNumber="188" uuid="87ead6ac-b1c5-4852-8413-7fa43c6cfc57"/>
+        <card number="1" name="Demonic Tutor" setShortName="UMA" collectorNumber="93" uuid="3bdbc231-5316-4abd-9d8d-d87cff2c9847"/>
+        <card number="1" name="Despark" setShortName="WAR" collectorNumber="190" uuid="32b17dfc-b916-4134-ba77-501cff435e7e"/>
+        <card number="1" name="Diabolic Intent" setShortName="BBD" collectorNumber="141" uuid="b58299a8-e674-46de-ae25-c98410e0b445"/>
+        <card number="1" name="Dusk Legion Zealot" setShortName="RIX" collectorNumber="70" uuid="3190cea3-fbea-464f-999b-4b4473be745e"/>
+        <card number="1" name="Everything Comes to Dust" setShortName="WHO" collectorNumber="19" uuid="fb4b912c-07d4-42a1-8f3b-d5f34cca087f"/>
+        <card number="1" name="Exotic Orchard" setShortName="C16" collectorNumber="295" uuid="a95134ee-68d3-44d8-9098-403f100dc73b"/>
+        <card number="1" name="Exquisite Blood" setShortName="AVR" collectorNumber="102" uuid="4cd54279-57f5-4cd9-b524-4f094bd2fc36"/>
+        <card number="1" name="Falkenrath Pit Fighter" setShortName="MID" collectorNumber="137" uuid="a743a3b6-3278-4644-a2d5-acf495c273ed"/>
+        <card number="1" name="Florian, Voldaren Scion" setShortName="MID" collectorNumber="318" uuid="74b100ae-5795-4583-88a1-a428b090a80f"/>
+        <card number="1" name="Forerunner of the Legion" setShortName="RIX" collectorNumber="9" uuid="10718d37-63d4-44b7-9450-5d49cffce944"/>
+        <card number="1" name="Fracture" setShortName="STX" collectorNumber="188" uuid="a11224f8-06ea-4ec3-85e6-d5c8d906840c"/>
+        <card number="1" name="Gifted Aetherborn" setShortName="SCH" collectorNumber="13" uuid="ba312f2e-c9c2-4c61-bcbd-d46f913ae329"/>
+        <card number="1" name="Godless Shrine" setShortName="GTC" collectorNumber="242" uuid="6fd672bb-18cf-44e3-8dda-5310b1e0fffe"/>
+        <card number="1" name="Haunted Ridge" setShortName="MID" collectorNumber="263" uuid="b200e822-be36-4e59-bd0e-9d0188a68df8"/>
+        <card number="1" name="Indulgent Aristocrat" setShortName="SOI" collectorNumber="118" uuid="f24200d4-cd98-424c-bc2f-69f8b361d8fc"/>
+        <card number="1" name="Insatiable Avarice" setShortName="OTJ" collectorNumber="325" uuid="aae03d91-8269-4124-ba50-a6c65f47718b"/>
+        <card number="1" name="Ivora, Insatiable Heir" setShortName="J25" collectorNumber="50" uuid="2ba70366-b6ae-423a-a8d8-29d2b8afd939"/>
+        <card number="1" name="Legion Lieutenant" setShortName="RIX" collectorNumber="163" uuid="33f7ff99-65d6-4e97-bdfa-b6e6eac0588f"/>
+        <card number="1" name="Lethal Scheme" setShortName="LCC" collectorNumber="201" uuid="a132a71e-f173-47bc-a014-444e3fd7c122"/>
+        <card number="1" name="Luxury Suite" setShortName="BBD" collectorNumber="82" uuid="81298b0b-9d47-4777-998e-0c17821ef536"/>
+        <card number="1" name="Mana Confluence" setShortName="JOU" collectorNumber="163" uuid="504a69eb-3c2d-4bb1-b117-252b15acf0c2"/>
+        <card number="1" name="Marauding Blight-Priest" setShortName="ZNR" collectorNumber="112" uuid="730ddbcd-0814-4e22-85e9-78b0878324b6"/>
+        <card number="1" name="Markov Baron" setShortName="MAT" collectorNumber="14" uuid="a1dc6b0f-09bb-4489-8022-42c700eb1191"/>
+        <card number="1" name="Marsh Flats" setShortName="ZEN" collectorNumber="219" uuid="45026d57-0324-4312-8b86-2e7d4f581ee9"/>
+        <card number="1" name="Master of Dark Rites" setShortName="LCC" collectorNumber="51" uuid="35c21fc4-d2f4-4682-b6af-f2e32377c9af"/>
+        <card number="1" name="Midgar, City of Mako // Reactor Raid" setShortName="FIN" collectorNumber="313" uuid="fa605930-a7f0-410d-ac58-f5f0bd8caadf"/>
+        <card number="1" name="Minas Tirith" setShortName="LTR" collectorNumber="341" uuid="82e8a91c-74ee-411b-9d74-4e72df24258b"/>
+        <card number="1" name="Mountain" setShortName="VOW" collectorNumber="274" uuid="8a4448b6-0dbe-427c-b145-8ac915fc0dfc"/>
+        <card number="1" name="Necropotence" setShortName="IMA" collectorNumber="98" uuid="c89c6895-b0f8-444a-9c89-c6b4fd027b3e"/>
+        <card number="1" name="Night's Whisper" setShortName="VOC" collectorNumber="133" uuid="58a47e66-b979-47cd-9a31-3fa3b4b059ac"/>
+        <card number="1" name="Olivia's Wrath" setShortName="VOC" collectorNumber="20" uuid="98893cc1-f502-4ca6-b6c1-e09fa1f4ef7a"/>
+        <card number="1" name="Path to Exile" setShortName="BLC" collectorNumber="147" uuid="a5b070f2-f2f2-4ccd-9a4b-d19ea01b2298"/>
+        <card number="1" name="Plains" setShortName="VOW" collectorNumber="268" uuid="deabdaa1-6227-48e4-82d5-63a1771320b2"/>
+        <card number="1" name="Preacher of the Schism" setShortName="LCI" collectorNumber="367" uuid="3a0db433-7ca2-48d6-b60c-0a9a9149378a"/>
+        <card number="1" name="Prismatic Vista" setShortName="MH1" collectorNumber="244" uuid="e37da81e-be12-45a2-9128-376f1ad7b3e8"/>
+        <card number="1" name="Reflecting Pool" setShortName="CNS" collectorNumber="210" uuid="919a51f8-e7b5-4544-85a3-2d76f9d2d41d"/>
+        <card number="1" name="Rite of Oblivion" setShortName="MID" collectorNumber="237" uuid="fe1f8d52-565e-4900-8357-fd29f2022dc1"/>
+        <card number="1" name="Ruthless Lawbringer" setShortName="OTJ" collectorNumber="229" uuid="927b5498-23f1-47c0-b441-7daaeb54f9b8"/>
+        <card number="1" name="Sacred Foundry" setShortName="GTC" collectorNumber="245" uuid="0a26d900-c652-4f9c-8681-a35c5f8b1937"/>
+        <card number="1" name="Sanctum Seeker" setShortName="XLN" collectorNumber="120" uuid="72150779-0bb6-4d20-a898-cda93a66e7cd"/>
+        <card number="1" name="Savai Triome" setShortName="IKO" collectorNumber="312" uuid="d21ef9e6-e2dd-4e0a-a36c-e07034ac4ba3"/>
+        <card number="1" name="Shadow Alley Denizen" setShortName="GTC" collectorNumber="76" uuid="985997ae-59bc-49d7-87ca-e63ed9706fdf"/>
+        <card number="1" name="Shared Animosity" setShortName="E02" collectorNumber="29" uuid="ca5feaf7-3ca0-4ad7-b56b-b76d39e4bec7"/>
+        <card number="1" name="Shattered Sanctum" setShortName="VOW" collectorNumber="264" uuid="ad44c9aa-eb8f-4200-8dfe-2af728d80083"/>
+        <card number="1" name="Silent Clearing" setShortName="MH1" collectorNumber="246" uuid="ac07e230-0297-4e1d-bdfe-119010e0ad8e"/>
+        <card number="1" name="Skullclamp" setShortName="C17" collectorNumber="222" uuid="ab56119b-1e13-44d4-b73b-991488c039f1"/>
+        <card number="1" name="Sol Ring" setShortName="C17" collectorNumber="223" uuid="c6399a22-cebf-4c1d-a23e-4c68f784ac1b"/>
+        <card number="1" name="Spectator Seating" setShortName="CMR" collectorNumber="711" uuid="b16e9306-79bc-451a-9046-6a0f8d4b9606"/>
+        <card number="1" name="Sulfurous Springs" setShortName="7ED" collectorNumber="345" uuid="d31327f6-f076-4366-9c7a-b084516ba215"/>
+        <card number="1" name="Sunbaked Canyon" setShortName="MH1" collectorNumber="247" uuid="c36820fa-ee86-4206-9a0d-737a67cf5208"/>
+        <card number="1" name="Sunbillow Verge" setShortName="DFT" collectorNumber="264" uuid="94ed132f-b818-4dbf-9b4a-e5acb067e0a4"/>
+        <card number="1" name="Sundown Pass" setShortName="VOW" collectorNumber="266" uuid="8f3fddd7-ede4-41c7-a645-a6af298a3d35"/>
+        <card number="3" name="Swamp" setShortName="VOW" collectorNumber="273" uuid="2e55a405-bf5b-4158-ba9a-239627ac9701"/>
+        <card number="1" name="Swords to Plowshares" setShortName="C17" collectorNumber="76" uuid="d8d4eaeb-6546-44d8-a96f-7270e23014d1"/>
+        <card number="1" name="Takenuma, Abandoned Mire" setShortName="PNEO" collectorNumber="278"/>
+        <card number="1" name="Taunt from the Rampart" setShortName="LTC" collectorNumber="151" uuid="211f7480-73a4-40e6-9249-130b96660e18"/>
+        <card number="1" name="Three Tree City" setShortName="BLB" collectorNumber="260" uuid="56f88a48-cced-4a9d-8c19-e4f105f0d8a2"/>
+        <card number="1" name="Twilight Prophet" setShortName="RIX" collectorNumber="88" uuid="9da6974f-6753-48ac-98cd-86412cc93726"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="UMA" collectorNumber="254" uuid="02e17705-739e-409f-a6fd-7bab22120b22"/>
+        <card number="1" name="Vampire Gourmand" setShortName="FDN" collectorNumber="74" uuid="917514c0-9cd5-4b97-85b9-c4f753560ad4"/>
+        <card number="1" name="Vampire Nocturnus" setShortName="M13" collectorNumber="113" uuid="8daccbbb-6600-4467-810f-277f01a11771"/>
+        <card number="1" name="Vampire of the Dire Moon" setShortName="M20" collectorNumber="120" uuid="b3c185b9-5d97-4a5a-af0b-8b9c44dcd235"/>
+        <card number="1" name="Vampire Socialite" setShortName="MID" collectorNumber="249" uuid="f07cbf04-2864-4407-800e-4d55c10d3426"/>
+        <card number="1" name="Vampiric Tutor" setShortName="6ED" collectorNumber="161" uuid="c8505bc8-218f-4b56-be78-ebde535ebaa0"/>
+        <card number="1" name="Vault of Champions" setShortName="CMR" collectorNumber="715" uuid="7695a48e-391a-4ac1-93d6-35373e13718f"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose" setShortName="M21" collectorNumber="127" uuid="0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5"/>
+        <card number="1" name="Welcoming Vampire" setShortName="VOW" collectorNumber="287" uuid="fd60ee8d-fb50-41df-89a8-aed5a53d755f"/>
+        <card number="1" name="Winds of Abandon" setShortName="MH1" collectorNumber="37" uuid="3bb17913-fe4d-4acd-9b75-71f5a90f898b"/>
+    </zone>
+</cockatrice_deck>

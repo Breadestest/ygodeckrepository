@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Commanders want to try</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Aeve, Progenitor Ooze" setShortName="J21" collectorNumber="539" uuid="98b0b01d-0ec7-4f5d-b6b1-fc166fc5a051"/>
+        <card number="1" name="Alania, Divergent Storm" setShortName="BLB" collectorNumber="204" uuid="436d6a84-4cea-4ca7-94aa-9d08280652af"/>
+        <card number="1" name="Amalia Benavides Aguirre" setShortName="LCI" collectorNumber="221" uuid="9acf80a5-f2ca-45b4-aca8-fbc690e35401"/>
+        <card number="1" name="Animar, Soul of Elements" setShortName="CMD" collectorNumber="181" uuid="cb073d5b-9515-492d-9b2d-0f64e85f1da8"/>
+        <card number="1" name="Arabella, Abandoned Doll" setShortName="DSK" collectorNumber="208" uuid="f683d5a1-b8bf-446f-9fe3-88a4398bf3cf"/>
+        <card number="1" name="Arcum Dagsson" setShortName="CSP" collectorNumber="27" uuid="dd9d3ce7-53db-4808-88bc-03c120211f81"/>
+        <card number="1" name="Ashcoat of the Shadow Swarm" setShortName="PZA" collectorNumber="6" uuid="6873a1d1-b1bc-4ed6-a734-0e35fd8dbc8e"/>
+        <card number="1" name="Atraxa, Praetors' Voice" setShortName="PF26" collectorNumber="10" uuid="974900db-87c4-4d39-8687-90ca7a8b6dda"/>
+        <card number="1" name="Baral, Chief of Compliance" setShortName="AER" collectorNumber="28" uuid="60e16d94-1166-4050-8554-686e153a7f80"/>
+        <card number="1" name="Baylen, the Haymaker" setShortName="BLB" collectorNumber="205" uuid="00e93be2-e06b-4774-8ba5-ccf82a6da1d8"/>
+        <card number="1" name="Betor, Ancestor's Voice" setShortName="TDC" collectorNumber="1" uuid="2e261489-8dde-4594-8868-69f432f03d03"/>
+        <card number="1" name="Breya, Etherium Shaper" setShortName="MH3" collectorNumber="289" uuid="8bf3929c-957f-4ea2-a27d-7d53979844af"/>
+        <card number="1" name="Brudiclad, Telchor Engineer" setShortName="SOC" collectorNumber="299" uuid="d24bf1df-5087-4ad6-a1aa-4eda2340cd8b"/>
+        <card number="1" name="Bruvac the Grandiloquent" setShortName="JMP" collectorNumber="10" uuid="5b43bdc7-e49e-4848-9101-6cad2ecab4dc"/>
+        <card number="1" name="Chatterfang, Squirrel General" setShortName="BLC" collectorNumber="82" uuid="2bb8c103-37c3-4c5f-9b3f-48d8b2292783"/>
+        <card number="1" name="Codie, Vociferous Codex" setShortName="STX" collectorNumber="253" uuid="ea476ee1-67d9-4dd8-a5ac-f68a155eb18b"/>
+        <card number="1" name="Edgar Markov" setShortName="C17" collectorNumber="36" uuid="8d94b8ec-ecda-43c8-a60e-1ba33e6a54a4"/>
+        <card number="1" name="Emrakul, the Promised End" setShortName="EMN" collectorNumber="6" uuid="8d74a469-c71d-4773-99d3-5456b31df424"/>
+        <card number="1" name="Emry, Lurker of the Loch" setShortName="ELD" collectorNumber="43" uuid="bf4b9a8a-b42a-46fb-b0d0-9cf800f63c8a"/>
+        <card number="1" name="Fynn, the Fangbearer" setShortName="FDN" collectorNumber="637" uuid="699efb9e-2649-432b-8b2d-10775114c314"/>
+        <card number="1" name="Gargos, Vicious Watcher" setShortName="M20" collectorNumber="172" uuid="4e446e90-6e31-43ed-bcb1-a01422b503c0"/>
+        <card number="1" name="Ghalta, Primal Hunger" setShortName="FDN" collectorNumber="222" uuid="6a9c39e4-a8cf-42dd-8d0e-45634b335546"/>
+        <card number="1" name="Ghoulcaller Gisa" setShortName="JMP" collectorNumber="236" uuid="0bcba8d3-725b-49f9-8281-eafac15208c5"/>
+        <card number="1" name="Giada, Font of Hope" setShortName="FDN" collectorNumber="141" uuid="8ae6fc26-cfad-4da8-98d9-49c27c24d293"/>
+        <card number="1" name="Gix, Yawgmoth Praetor" setShortName="BRO" collectorNumber="95" uuid="2c76f7e0-37e7-4e87-93a3-a25ba0674645"/>
+        <card number="1" name="Gwenom, Remorseless" setShortName="OM1" collectorNumber="56" uuid="fcd9da8a-e36f-4ae1-9a5d-b72ad9c27397"/>
+        <card number="1" name="Hakbal of the Surging Soul" setShortName="LCC" collectorNumber="3" uuid="e738e675-4fd1-4bc3-97f5-71d0e2fc3f2e"/>
+        <card number="1" name="Hamza, Guardian of Arashin" setShortName="MOC" collectorNumber="327" uuid="f402e6d9-8c72-4b31-bec5-4a1b3ffb39ae"/>
+        <card number="1" name="Hazel of the Rootbloom" setShortName="BLC" collectorNumber="2" uuid="1269ca79-907e-4932-9e77-a9a5d2929060"/>
+        <card number="1" name="Helga, Skittish Seer" setShortName="BLB" collectorNumber="217" uuid="40339715-22d0-4f99-822b-a00d9824f27a"/>
+        <card number="1" name="Hope Estheim" setShortName="FIN" collectorNumber="226" uuid="fbdb68cc-5516-481a-94c5-59f6c69b8a17"/>
+        <card number="1" name="Jin-Gitaxias" setShortName="MOM" collectorNumber="65" uuid="41c83142-b948-4ee5-a486-41306d2bb411"/>
+        <card number="1" name="Jin-Gitaxias, Progress Tyrant" setShortName="NEO" collectorNumber="59" uuid="c57b4876-5387-4f73-b8e2-8e7bdca8b0bc"/>
+        <card number="1" name="Kefka, Court Mage" setShortName="FIN" collectorNumber="231" uuid="8fcf3fbb-1ddd-437e-81c1-f5a3133f5ee8"/>
+        <card number="1" name="Kozilek, the Great Distortion" setShortName="OGW" collectorNumber="4" uuid="f06fc6e0-b22c-40d3-bb53-d5ec400d921c"/>
+        <card number="1" name="Karn, Legacy Reforged" setShortName="MAT" collectorNumber="49" uuid="4219b5ea-a252-4d76-a60a-9674340e8ed3"/>
+        <card number="1" name="Krenko, Mob Boss" setShortName="FDN" collectorNumber="204" uuid="824b2d73-2151-4e5e-9f05-8f63e2bdcaa9"/>
+        <card number="1" name="Karumonix, the Rat King" setShortName="ONE" collectorNumber="98" uuid="f16e282d-8941-46c7-a974-c05b6f73c964"/>
+        <card number="1" name="K'rrik, Son of Yawgmoth" setShortName="MH3" collectorNumber="274" uuid="4f087b1c-97e0-4379-a94d-beac53685314"/>
+        <card number="1" name="Liesa, Shroud of Dusk" setShortName="CMR" collectorNumber="286" uuid="e32453a1-1fd9-4bda-aaa8-7c287e4c2587"/>
+        <card number="1" name="Light-Paws, Emperor's Voice" setShortName="NEO" collectorNumber="25" uuid="39555a72-a57b-45ee-9222-ce3b9e8de126"/>
+        <card number="1" name="Lumra, Bellow of the Woods" setShortName="BLB" collectorNumber="183" uuid="ae4f3aaf-3960-48cd-b34b-32e4ae5ae088"/>
+        <card number="1" name="Magda, Brazen Outlaw" setShortName="KHM" collectorNumber="142" uuid="079e6263-e54c-4899-a336-5315909b9322"/>
+        <card number="1" name="Magus Lucea Kane" setShortName="40K" collectorNumber="7" uuid="4f86e7cc-2b6e-49d0-964e-bba0c51cc11d"/>
+        <card number="1" name="Marchesa, the Black Rose" setShortName="C17" collectorNumber="177" uuid="ca6cf5ba-0bad-4f7d-83b9-c092c2586131"/>
+        <card number="1" name="Marrow-Gnawer" setShortName="CHK" collectorNumber="124" uuid="72e4548b-c171-4f10-b896-af37543dcf0f"/>
+        <card number="1" name="Mizzix of the Izmagnus" setShortName="C15" collectorNumber="50" uuid="d0ea2c3a-c36d-44e8-bc46-5361f5f9d0e7"/>
+        <card number="1" name="Mm'menon, the Right Hand" setShortName="PEOE" collectorNumber="68p" uuid="67b8d42f-9908-4939-ad64-f411674ae07d"/>
+        <card number="1" name="Molecule Man" setShortName="MSC" collectorNumber="9" uuid="ee64d0dd-e3d8-4abc-b9d6-b19c505fbfa1"/>
+        <card number="1" name="Ojer Axonil, Deepest Might" setShortName="LCI" collectorNumber="158" uuid="50f8e2b6-98c7-4f28-bb39-e1fbe841f1ee"/>
+        <card number="1" name="Ojer Kaslem, Deepest Growth" setShortName="LCI" collectorNumber="204" uuid="0cbc43a3-8cba-4988-9de1-c89aedd79ada"/>
+        <card number="1" name="Omnath, Locus of All" setShortName="MOM" collectorNumber="249" uuid="33d94ecf-758b-4f68-a7be-6bf3ff1047f4"/>
+        <card number="1" name="Orvar, the All-Form" setShortName="KHM" collectorNumber="70" uuid="7f36775e-9e48-49cc-a771-d58481712edc"/>
+        <card number="1" name="Pearl-Ear, Imperial Advisor" setShortName="SOC" collectorNumber="160" uuid="7e8d6bc1-4609-4802-a4b6-7e75fdae186c"/>
+        <card number="1" name="Rat King, Verminister" setShortName="TMT" collectorNumber="71" uuid="be464d88-8933-46e8-97b0-3be05f1976a3"/>
+        <card number="1" name="Ravenous Slime" setShortName="C18" collectorNumber="34" uuid="528d8f5e-2d58-4526-875b-21d199267210"/>
+        <card number="1" name="Shalai and Hallar" setShortName="MOC" collectorNumber="10" uuid="80804f25-efc3-44a2-bbae-9a97fec98009"/>
+        <card number="1" name="Skullbriar, the Walking Grave" setShortName="CM2" collectorNumber="165" uuid="69dad154-2616-4bd6-8448-0e0458ee136d"/>
+        <card number="1" name="Solphim, Mayhem Dominus" setShortName="ONE" collectorNumber="150" uuid="c3a0c7f3-7fb9-43de-a9af-96532c31e5ed"/>
+        <card number="1" name="Talrand, Sky Summoner" setShortName="M13" collectorNumber="72" uuid="bc1a6867-921d-4912-afae-c3c445ad81e7"/>
+        <card number="1" name="Tannuk, Steadfast Second" setShortName="PEOE" collectorNumber="162p" uuid="d345d734-0063-4abb-981d-6846ae9ae493"/>
+        <card number="1" name="Teshar, Ancestor's Apostle" setShortName="SOC" collectorNumber="180" uuid="6e80198c-cfae-46f9-84cb-584d091014c5"/>
+        <card number="1" name="Teval, the Balanced Scale" setShortName="TDC" collectorNumber="8" uuid="b5d1955a-9ff0-4f8b-9af8-341371957299"/>
+        <card number="1" name="The Mindskinner" setShortName="DSK" collectorNumber="66" uuid="7f1bb4c5-99be-46cc-ad54-7affb5f0144c"/>
+        <card number="1" name="The Necrobloom" setShortName="MH3" collectorNumber="194" uuid="8fcf68cf-0dac-4b29-90d5-c18c685182e6"/>
+        <card number="1" name="The Wise Mothman" setShortName="PIP" collectorNumber="4" uuid="3d6d6944-a364-41c2-b824-7a1bf6ad0d1e"/>
+        <card number="1" name="Tidus, Yuna's Guardian" setShortName="FIC" collectorNumber="5" uuid="2cfd4494-346c-4cbc-8072-e267254cefcc"/>
+        <card number="1" name="Tinybones, Bauble Burglar" setShortName="FDN" collectorNumber="72" uuid="ff3d85bc-ef2d-4251-baf4-a14bd0cee61e"/>
+        <card number="1" name="Tinybones, the Pickpocket" setShortName="OTJ" collectorNumber="109" uuid="3d3025a2-4a17-4137-ba0b-bd676c6f5f88"/>
+        <card number="1" name="Tinybones, Trinket Thief" setShortName="JMP" collectorNumber="17" uuid="4063be5b-bfd9-43c5-bc39-09a40bc793bf"/>
+        <card number="1" name="Ultima, Origin of Oblivion" setShortName="FIN" collectorNumber="2" uuid="d55a4c02-1aa4-454c-9041-84937377a53b"/>
+        <card number="1" name="Urtet, Remnant of Memnarch" setShortName="ONC" collectorNumber="28" uuid="7aa01ab4-26b0-49dc-8514-b3850d355a21"/>
+        <card number="1" name="Urza, Chief Artificer" setShortName="BRC" collectorNumber="2" uuid="ea409050-4296-4b76-a6cd-2896ce1b88e4"/>
+        <card number="2" name="Urza, Lord High Artificer" setShortName="H1R" collectorNumber="11" uuid="86d744cd-225c-4279-898a-858dc316cf7f"/>
+        <card number="1" name="Valgavoth, Terror Eater" setShortName="DSK" collectorNumber="120" uuid="7740ff55-67bb-409e-90f7-2c2c8b8c770a"/>
+        <card number="1" name="Veyran, Voice of Duality" setShortName="SOC" collectorNumber="337" uuid="1cb06c70-7ff2-4c88-9931-1bfe8a3226d9"/>
+        <card number="1" name="Vorinclex, Monstrous Raider" setShortName="KHM" collectorNumber="199" uuid="92613468-205e-488b-930d-11908477e9f8"/>
+        <card number="1" name="Will, Scion of Peace" setShortName="WOE" collectorNumber="218" uuid="162088ea-5f99-4244-9427-2fdfb2168fc3"/>
+        <card number="1" name="Zhulodok, Void Gorger" setShortName="CMM" collectorNumber="704" uuid="a015461d-4214-4feb-8b04-519c537759eb"/>
+        <card number="1" name="Zinnia, Valley's Voice" setShortName="BLC" collectorNumber="4" uuid="dfe36901-5841-4942-8b61-c273111f715e"/>
+        <card number="1" name="Zoraline, Cosmos Caller" setShortName="BLB" collectorNumber="242" uuid="b7f99fd5-5298-4b27-923d-9d31203c931a"/>
+    </zone>
+</cockatrice_deck>

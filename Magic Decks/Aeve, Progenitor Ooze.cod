@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Aeve, Progenitor Ooze</deckname>
+    <format>commander</format>
+    <bannerCard providerId="98b0b01d-0ec7-4f5d-b6b1-fc166fc5a051">Aeve, Progenitor Ooze</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Karn, Scion of Urza" setShortName="DOM" collectorNumber="1" uuid="07a3d9e8-8597-498b-869c-cff79e0df516"/>
+        <card number="1" name="March of the World Ooze" setShortName="DFT" collectorNumber="169" uuid="b1964ec5-0dd1-4b54-917c-cbeab05aba79"/>
+        <card number="1" name="Slime Against Humanity" setShortName="MKM" collectorNumber="177" uuid="1eb21318-d32e-4724-8908-c0d7613de2f4"/>
+        <card number="1" name="Sol Ring" setShortName="ECC" collectorNumber="57" uuid="04002706-2236-4b79-bdea-4f263e43cb9c"/>
+        <card number="1" name="Biogenic Ooze" setShortName="TMC" collectorNumber="49" uuid="0e850205-d010-49af-b68b-262360751b70"/>
+        <card number="1" name="Ochre Jelly" setShortName="AFR" collectorNumber="196" uuid="9f23cfb7-c6b6-4f04-abba-5b2a6117ea12"/>
+        <card number="1" name="Green Slime" setShortName="CLB" collectorNumber="636" uuid="f700972f-2c26-443b-9af0-72a4b5d4d723"/>
+        <card number="1" name="Oran-Rief Ooze" setShortName="ZNR" collectorNumber="198" uuid="fd2ad967-dd77-4c3a-b53c-2929ecf7750f"/>
+        <card number="1" name="Ravenous Slime" setShortName="C18" collectorNumber="34" uuid="528d8f5e-2d58-4526-875b-21d199267210"/>
+        <card number="1" name="Predator Ooze" setShortName="FDN" collectorNumber="642" uuid="333b3cca-ebbf-4ceb-a6a5-3d49cb2e143a"/>
+        <card number="1" name="Scavenging Ooze" setShortName="FDN" collectorNumber="232" uuid="8c504c23-1e9a-411b-9cfe-4180d0c744f6"/>
+        <card number="1" name="Biowaste Blob" setShortName="CMR" collectorNumber="219" uuid="8bbf476f-ccc8-42ac-8d01-64bb85552acd"/>
+        <card number="1" name="Aeve, Progenitor Ooze" setShortName="J21" collectorNumber="539" uuid="98b0b01d-0ec7-4f5d-b6b1-fc166fc5a051"/>
+    </zone>
+</cockatrice_deck>

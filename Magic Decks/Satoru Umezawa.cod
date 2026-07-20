@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Satoru Umezawa</deckname>
+    <format>commander</format>
+    <bannerCard providerId="8887f26d-b097-4fbc-9c48-bdc656409a32">Satoru Umezawa</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Satoru Umezawa" setShortName="NEO" collectorNumber="234" uuid="8887f26d-b097-4fbc-9c48-bdc656409a32"/>
+    </zone>
+</cockatrice_deck>

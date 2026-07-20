@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Anti-Venom, Horrifying Healer</deckname>
+    <format>commander</format>
+    <bannerCard providerId="3865036d-d1cc-4f81-8f2a-a5fef4c67fa8">Anti-Venom, Horrifying Healer</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Anti-Venom, Horrifying Healer" setShortName="LMAR" collectorNumber="1" uuid="3865036d-d1cc-4f81-8f2a-a5fef4c67fa8"/>
+    </zone>
+</cockatrice_deck>

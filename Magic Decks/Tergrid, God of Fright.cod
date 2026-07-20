@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>Tergrid, God of Fright</deckname>
+    <format>commander</format>
+    <bannerCard providerId="14dc88ee-bba9-4625-af0d-89f3762a0ead">Tergrid, God of Fright</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Tergrid, God of Fright" setShortName="KHM" collectorNumber="112" uuid="14dc88ee-bba9-4625-af0d-89f3762a0ead"/>
+    </zone>
+</cockatrice_deck>
